@@ -260,7 +260,7 @@ h4 {
 	display: inline-block;
 }
 
-#instagram, #facebook {
+#instagram, #facebook, #podcast {
 	width: 0.9rem;
 	height: 0.9rem;
 	opacity: 0.6;
@@ -273,7 +273,7 @@ h4 {
 	padding-top: 0.2rem;
 }
 
-#instagram:hover, #facebook:hover, #youtube:hover {
+#instagram:hover, #facebook:hover, #youtube:hover, #podcast:hover {
 	-webkit-transition: 200ms;
 	-webkit-transition-timing-function: ease;
 	transition: 200ms;
@@ -513,7 +513,7 @@ h4 {
 		display: inline-block;
 	}
 
-	#instagram, #facebook {
+	#instagram, #facebook, #podcast {
 		width: 1.4rem;
 		height: 1.4rem;
 		opacity: 0.4;
@@ -523,7 +523,7 @@ h4 {
 		width: 1.6rem;
 		height: 1.6rem;
 		opacity: 0.4;
-		padding-top: 0.35rem;
+		padding-top: 0.25rem;
 	}
 
 	.cr {
